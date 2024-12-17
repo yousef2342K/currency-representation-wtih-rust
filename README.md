@@ -99,5 +99,3 @@ This project is open-source and available under the MIT License.
 - **Yousef**
 - GitHub: [yousef2342K](https://github.com/yousef2342K)
 ```
-
-هل تحتاج أي إضافات أخرى؟ 😊
